@@ -1,7 +1,8 @@
 # MLP for MNIST
+Yifan Qi
 
-[MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
-[Download Trained Model](https://drive.google.com/file/d/18BsUgZH_7KnEQq-Qi-wwPO9qdiSRCYDH/view?usp=sharing)
+- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+- [Download Trained Model](https://drive.google.com/file/d/18BsUgZH_7KnEQq-Qi-wwPO9qdiSRCYDH/view?usp=sharing)
 
 
 **Parameter searching:**
